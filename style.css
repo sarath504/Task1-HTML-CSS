@@ -626,48 +626,4 @@ progress{
     }
 }
 
-/* @media (min-width:768px) and (max-width:1024px){
-    .traveller{
-        margin-top: 70px;
-        height: 400px;
-        width: 400px;
-    }
 
-    .category-heading{
-        margin-top: 140px;
-        align-items: center;
-    }
-    .category{
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    }
-    .top-selling{
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    }
-    .booking-process{
-        margin-top: 400px !important;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    }
-    .notify{
-        height: 300px;
-    }
-
-    .notify-note{
-        padding: 0px;
-    }
-
-    .text-box{
-        margin: 20px;
-    }
-
-    .spiral-image1{
-        height: 150px;
-        bottom: 105px;
-        right: 120px
-    }
-
-    .spiral-image2{
-        height: 150px;
-        left: 145px;
-        bottom: 230px;
-    }
-} */
